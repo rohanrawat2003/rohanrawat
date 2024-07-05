@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ROHAN RAWAT</h1>
-<h3 align="center">Ambitious and detail oriented BTECH fresher with expertise in [data science] , committed to delivering exceptional result and continuously learning in a fast - paced setting.</h3>
+<h3 align="center">Ambitious and detail oriented BTECH fresher with expertise in data science , committed to delivering exceptional result and continuously learning in a fast - paced setting.</h3>
 
 - 🔭 I’m currently working on ****Yellow.ai****
 
